@@ -1,0 +1,20 @@
+.helpContainer {
+	padding: 60px;
+}
+
+.helpTitle {
+	color: #19e9b5;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+		Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	letter-spacing: 1px;
+}
+
+.helpInstructions {
+	color: rgb(164, 164, 164);
+	text-align: justify;
+	letter-spacing: 1px;
+}
+
+.helpLink {
+	color: rgb(40, 99, 228) !important;
+}
